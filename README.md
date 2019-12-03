@@ -12,6 +12,6 @@ Cows and Bulls game made in JavaFX + Swing
 
 ## Installation
 
-* Clone the repository and open it with **IntellJ IDEA**, set **JDK** and **JRE**, run **"MainMenu"** configuration
+* Clone the repository and open it with **IntellJ IDEA**, set **JDK** and **JRE**, run **"Main"** configuration
 
 
